@@ -1,2 +1,5 @@
 # Godot 4+ specific ignores
 .godot/
+Sunny-land-files/
+Sunny-land-forest-files/
+sunny-land-phaser-project/
